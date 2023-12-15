@@ -205,9 +205,7 @@ font-size: 1.2em;
 
 
 /******* boton BIEVENIDA***********/ 
-button{
-    align-content: center;
-}
+
 .btn2 {
     position: relative;
    
@@ -519,7 +517,7 @@ tr:nth-child(odd) {
 
 /************** ESTILO DE LA GALERIA *****************/
 
-#TituloG{color: #000000;}
+#TituloG{color: #ffffff;}
 
 .gallery-container {
     display: grid;
